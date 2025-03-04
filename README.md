@@ -10,7 +10,7 @@ Este proyecto consiste en la creación de una caja de comentarios interactiva do
 
 ## Enlace del GitHub Pages
 
-[GitHub Pages - Intro al DOM en JavaScript Clase 6](https://ailynmza.github.io/Dominando.El.DOM-Clase-7-M3/)
+[GitHub Pages - Intro al DOM en JavaScript Clase 6](https://ailynmza.github.io/Intro.al.DOM-Clase-6-M3/)
 
 ## Conclusión
 Al desarrollar este proyecto, pude practicar la gestión de eventos en formularios y cómo modificar el contenido de una página dinámicamente con el DOM en js. Fue un desafío interesante trabajar con la manipulación de elementos del DOM y gestionar la interacción del usuario. En la entrega del proyecto final se agregarán el botón para eliminar los comentarios así como el poder subir imagenes no solo texto. 🔑
