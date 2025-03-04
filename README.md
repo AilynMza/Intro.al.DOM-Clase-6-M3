@@ -15,4 +15,4 @@ Este proyecto consiste en la creación de una caja de comentarios interactiva do
 ## Conclusión
 Al desarrollar este proyecto, pude practicar la gestión de eventos en formularios y cómo modificar el contenido de una página dinámicamente con el DOM en js. Fue un desafío interesante trabajar con la manipulación de elementos del DOM y gestionar la interacción del usuario. En la entrega del proyecto final se agregarán el botón para eliminar los comentarios así como el poder subir imagenes no solo texto. 🔑
 
-![Meme](/imgs/js-jokee-girl.png)
+![Meme](/imgs/js-joke-girl.png)
